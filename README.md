@@ -1,6 +1,6 @@
 # Heroku
 
-Es un <b>PasS; es decir, una Plataforma como Servicio.
+Es un <b>PasS;</b> es decir, una Plataforma como Servicio.
 
 ## Descripción
 
